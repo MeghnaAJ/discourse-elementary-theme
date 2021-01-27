@@ -113,9 +113,12 @@ html {
   .badge-wrapper.bullet {
     margin-right: $margin-6;
   }
-  img.avatar {
-    border-radius: $radius-3;
-  }
+}
+
+// Global Avatars
+// *------------------------------------------------*
+img.avatar {
+  border-radius: $radius-3;
 }
 
 // Topic Page
